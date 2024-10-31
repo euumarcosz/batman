@@ -14,6 +14,5 @@ start mspaint
 REM Abrir arquivo em LibreOffice 
 start start "" "C:\Program Files\LibreOffice\program\soffice.exe"
 
-
 exit
 
